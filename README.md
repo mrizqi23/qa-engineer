@@ -22,7 +22,7 @@ Selamat datang di repository portofolio Quality Assurance saya! Repository ini b
 | :--- | :--- |
 | **Manual Testing** | Test Case Design, Bug Reporting, Boundary Value Analysis, Equivalence Partitioning |
 | **API Testing** | Postman, Swagger, ReqRes API |
-| **UI Automation** | Selenium / Playwright, Python / JavaScript |
+| **UI Automation** | Selenium / Playwright, Python / JavaScript | Appium
 | **Test Management** | Jira, Trello |
 | **Version Control** | Git & GitHub/GitLab |
 
